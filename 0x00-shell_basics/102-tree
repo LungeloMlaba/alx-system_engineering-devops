@@ -1,2 +1,2 @@
 #!/bin/bash
-mp [[:upper:]]* /tmp/u
+mkdir -p welcome/to/school
